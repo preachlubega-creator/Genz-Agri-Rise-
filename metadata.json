@@ -1,0 +1,6 @@
+{
+  "name": "Gen Z AgriRise Management System",
+  "description": "Internal organisational management, membership, sector operations, financial ledger, and reporting platform for Gen Z AgriRise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
